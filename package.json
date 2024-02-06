@@ -1,0 +1,26 @@
+{
+  "name": "wikipedia-modern-layout",
+  "version": "1.0.0",
+  "description": "wikipedia modern layout",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuelmarco-dev/wikipedia-modern-layout.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samuelmarco-dev/wikipedia-modern-layout/issues"
+  },
+  "homepage": "https://github.com/samuelmarco-dev/wikipedia-modern-layout#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
